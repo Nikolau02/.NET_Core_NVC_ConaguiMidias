@@ -1,0 +1,131 @@
+@{
+    ViewData["Title"] = "Dicas";
+}
+
+<div class="bannerDicas">
+    <div class="bannerDicasTxt">
+        <h3>Algumas dicas de marketing digital para o melhor desempenho do seu negócio:</h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica()">
+        <div id="esconde1" class="internoDivRedonda">
+            <h4>1ª Dica: Organize-se</h4>
+            <br />
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div1">
+            <h4>
+                Planeje sua semana para um melhor rendimento, você pode usar apps como
+                o Google Agenda e o Trello.
+            </h4>
+        </div>
+    </div>
+
+
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica2()">
+        <div id="esconde2" class="internoDivRedonda">
+            <h4>2ª Dica: O que fazer e o que não fazer</h4>
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div2">
+            <h5>
+                Errado: Comprar seguidores, <br />não se planejar, não ter identidade visual.
+            </h5>
+            <h5>
+                Certo: Consistência, bom design, conteúdo de qualidade.
+            </h5>
+        </div>
+    </div>
+
+
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica3()">
+        <div id="esconde3" class="internoDivRedonda">
+            <h4>3ª Dica: Considerações sobre Instagram</h4>
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div3">
+            <h4>
+                Preste atenção à sua BIO, tenha uma identidade visual que represente sua marca, faça sempre reels e stories.
+            </h4>
+        </div>
+    </div>
+
+
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica4()">
+        <div id="esconde4" class="internoDivRedonda">
+            <h4>4ª Dica: Básico Instagram</h4>
+            <br />
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div4">
+            <h4>
+                Tenha link na BIO, tenha um nome estratégico com uma identidade visual, tenha boas imagens(fotos ou vídeos).
+            </h4>
+        </div>
+    </div>
+
+
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica5()">
+        <div id="esconde5" class="internoDivRedonda">
+            <h4>5ª Dica: BIO Instagram</h4>
+            <br />
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div5">
+            <h4>
+                O perfil precisa ter uma boa fotografia ou sua logomarca, ter nome fácil de se achar e seus contatos.
+            </h4>
+        </div>
+    </div>
+
+
+    <div class="col-sm-10 col-md-5 col-lg-3 offset-sm-1 offset-md-1 offset-lg-1 divRedonda" onclick="mostraDica6()">
+        <div id="esconde6" class="internoDivRedonda">
+            <h4>6ª Dica: Sugestão de app para confecção de posts</h4>
+            <img src="~/visual/click.png" alt="Clique aqui!" title="Clique aqui!" height="60px" width="85px" />
+        </div>
+        <div class="invisivel" id="div6">
+            <h4>
+                Para fazer conteúdo de qualidade é necessário ter um bom App de confecção, o Canva é uma ótima alternativa.
+            </h4>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">   
+    function mostraDica()
+    {
+        $("#esconde1").toggle();
+        $("#div1").toggle();
+    }
+
+    function mostraDica2() {
+        $("#esconde2").toggle();
+        $("#div2").toggle();
+    }
+
+    function mostraDica3() {
+        $("#esconde3").toggle();
+        $("#div3").toggle();
+    }
+
+    function mostraDica4() {
+        $("#esconde4").toggle();
+        $("#div4").toggle();
+    }
+
+    function mostraDica5() {
+        $("#esconde5").toggle();
+        $("#div5").toggle();
+    }
+
+    function mostraDica6() {
+        $("#esconde6").toggle();
+        $("#div6").toggle();
+    }
+    
+</script>
+<script type="text/javascript" src="~/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="~/js/site.js"></script>

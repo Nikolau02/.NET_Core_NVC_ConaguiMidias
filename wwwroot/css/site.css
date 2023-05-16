@@ -1,0 +1,412 @@
+html {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  background-color: #ededeb;
+  overflow-x: hidden;
+  min-height: 100%
+}
+
+.container-fluid .banner {
+  overflow: hidden;
+  padding: 0
+}
+
+.cabecalho {
+  background-image: linear-gradient(45deg, #9761EE 0%, #5E17EB 80%);
+  color: white;
+  font-weight: bold;
+  text-align: center
+}
+
+.links {
+  color: #323232 !important
+}
+
+.iconesCards {
+  margin: 1%
+}
+
+.cardsQuadrados {
+  height: 150px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto 2% 5%;
+  color: #5E17EB
+}
+
+.iconesCards {
+  margin: 0 auto
+}
+
+.cardsQuadrados:hover {
+  box-shadow: 10px 15px 13px #ad89e8;
+  transition: 0.4s
+}
+
+.cardsQuadrados p {
+  font-weight: bold;
+  font-size: 1em;
+  margin-top: 10%
+}
+
+.banner {
+  background: url('../visual/marketing.jpg') no-repeat;
+  background-size: 100%;
+  height: 800px;
+  margin-bottom: 4%
+}
+
+.bannerTxt {
+  color: #000;
+  font-weight: bold;
+  font-size: 2em;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  margin: auto 20% auto;
+  opacity: 0.7
+}
+
+.bannerDicas {
+  background: url('../visual/bannerDicas.jpg') no-repeat;
+  background-size: 100%;
+  height: 800px;
+  margin-bottom: 4%
+}
+
+.bannerDicasTxt {
+  color: #000;
+  font-weight: bold;
+  font-size: 2em;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  margin: auto 20% auto;
+  opacity: 0.7
+}
+
+.divRedonda {
+  width: 310px;
+  height: 310px;
+  border-radius: 100%;
+  background-color: #602e9e;
+  text-align: center;
+  padding-top: 70px;
+  padding-right: 10px;
+  color: white;
+  margin: 0 4% 5% auto;
+  position: relative
+}
+
+.internoDivRedonda {
+  margin: 10px auto
+}
+
+.divRedonda:hover {
+  background-color: #9a62f3;
+  transition: 0.7s
+}
+
+.divRedonda img {
+  margin: 5% auto
+}
+
+.invisivel {
+  display: none;
+  position: absolute;
+  text-align: center
+}
+
+.bannerPortifolio {
+  background: url('../visual/bannerPortifolio.jpg') no-repeat;
+  background-size: 100%;
+  height: 800px;
+  margin-bottom: 4%
+}
+
+.bannerPortifolioTxt {
+  color: #000;
+  font-weight: bold;
+  font-size: 2em;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  margin: auto 20% auto;
+  opacity: 0.7
+}
+
+.cardEspacamento {
+  margin-bottom: 3%
+}
+
+.espacoH4 {
+  margin-bottom: 3%;
+  margin-left: 40%;
+  margin-right: 10%;
+  max-width: 300px
+}
+
+.bannerServicos {
+  background: url('../visual/bannerServicos.jpg') no-repeat;
+  background-size: 100%;
+  height: 800px;
+  margin-bottom: 4%
+}
+
+.bannerServicosTxt {
+  color: #000;
+  font-weight: bold;
+  font-size: 2em;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  margin: auto 20% auto;
+  opacity: 0.7
+}
+
+.divWhatsapp {
+  width: 390px;
+  height: 390px;
+  text-align: center;
+  color: white;
+  margin-bottom: 5%;
+  position: relative;
+  border-radius: 25px;
+  background-color: #41c352;
+  margin: 0 auto 2% auto
+}
+
+.divYoutube {
+  width: 390px;
+  height: 390px;
+  text-align: center;
+  color: white;
+  margin-bottom: 5%;
+  position: relative;
+  border-radius: 25px;
+  background-color: #ff0000;
+  margin: 0 auto 2% auto
+}
+
+.divInstagram {
+  width: 390px;
+  height: 390px;
+  text-align: center;
+  color: white;
+  margin-bottom: 5%;
+  position: relative;
+  border-radius: 25px;
+  background: #f09433;
+  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  margin: 0 auto 2% auto
+}
+
+.centro {
+  margin: 1% auto !important
+}
+
+.bannerFale {
+  background: url('../visual/contato.jpg') no-repeat;
+  background-size: 100%;
+  height: 800px;
+  margin-bottom: 4%
+}
+
+.bannerFaleTxt {
+  color: #000;
+  font-weight: bold;
+  font-size: 2em;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  margin: auto 20% auto;
+  opacity: 0.7
+}
+
+.footer {
+  position: inherit;
+  height: 2.5rem;
+  width: 100%;
+  bottom: 0
+}
+
+.divIcones {
+  float: right;
+  margin: 0 0 3% 0
+}
+
+.footerIcones {
+  border: none;
+  margin: auto auto auto 0
+}
+
+.footerTxt {
+  margin-right: 2%;
+  margin-bottom: 2%;
+  margin-left: 2%;
+  font-weight: bold
+}
+
+@media (max-width: 420px) {
+  .banner {
+      margin-bottom: 1%;
+      height: 330px;
+      padding-bottom: 30% !important
+  }
+
+  .bannerTxt {
+      margin-top: 1%
+  }
+
+  .cardsQuadrados {
+      margin: 0 auto
+  }
+
+  .bannerDicas {
+      margin-bottom: 1%;
+      height: 330px;
+      padding-bottom: 30% !important;
+  }
+
+  .bannerDicasTxt {
+      margin-bottom: 0%
+  }
+
+  .divRedonda {
+      margin: 0 auto 5% auto
+  }
+
+  .bannerPortifolio {
+      margin-bottom: 1%;
+      height: 330px;
+      padding-bottom: 30% !important
+  }
+
+  .bannerPortifolioTxt {
+      margin-bottom: 0%
+  }
+
+  .espacoH4 {
+      padding: 0;
+      margin-left: 30%;
+      max-width: 200px
+  }
+
+  .cardEspacamento {
+      margin: 0 auto 5% auto
+  }
+
+  .bannerServicos {
+      margin-bottom: 1%;
+      height: 330px;
+      padding-bottom: 30% !important
+  }
+
+  .bannerServicosTxt {
+      margin-bottom: 0%
+  }
+
+  .bannerFale {
+      margin-bottom: 1%;
+      height: 330px;
+      padding-bottom: 30% !important
+  }
+
+  .bannerFaleTxt {
+      margin-bottom: 0%
+  }
+}
+
+@media (min-width: 421px) and (max-width: 1025px) {
+  .banner {
+      margin-bottom: 3%;
+      height: 330px
+  }
+
+  .bannerTxt {
+      top: 30%;
+      transform: translateY(-10%);
+  }
+
+  .cardsQuadrados {
+      margin: 0 auto
+  }
+
+  .bannerDicas {
+      margin-bottom: 1%;
+      height: 440px
+  }
+
+  .bannerDicasTxt {
+      top: 30%;
+      transform: translateY(-10%);
+  }
+
+  .divRedonda {
+      margin: 0 auto 5% auto
+  }
+
+  .bannerPortifolio {
+      margin-bottom: 3%;
+      height: 500px
+  }
+
+  .bannerPortifolioTxt {
+      top: 30%;
+      transform: translateY(-10%);
+  }
+
+  .espacoH4 {
+      margin-left: 38%;
+      max-width: 300px
+  }
+
+  .cardEspacamento {
+      margin: 0 auto 5% auto
+  }
+
+  .bannerServicos {
+      margin-bottom: 3%;
+      height: 550px
+  }
+
+  .bannerServicosTxt {
+      top: 30%;
+      transform: translateY(-10%);
+  }
+
+  .bannerFale {
+      margin-bottom: 3%;
+      height: 550px
+  }
+
+  .bannerFaleTxt {
+      top: 30%;
+      transform: translateY(-10%);
+  }
+}

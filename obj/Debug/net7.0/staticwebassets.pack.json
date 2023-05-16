@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TCC_Novo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TCC_Novo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Logo.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Logo.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Logo2.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Logo2.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post1.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post1.jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post12.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post12.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post13.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post13.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post14.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post14.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post2.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post2.jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post3.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post3.jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post4.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\visual\\Post4.jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post5.mp4",
+      "PackagePath": "staticwebassets\\visual\\Post5.mp4"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\Post5.mp4.mp4",
+      "PackagePath": "staticwebassets\\visual\\Post5.mp4.mp4"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\visual\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\atendimento.png",
+      "PackagePath": "staticwebassets\\visual\\atendimento.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\bannerDicas.jpg",
+      "PackagePath": "staticwebassets\\visual\\bannerDicas.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\bannerPortifolio.jpg",
+      "PackagePath": "staticwebassets\\visual\\bannerPortifolio.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\bannerServicos.jpg",
+      "PackagePath": "staticwebassets\\visual\\bannerServicos.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\click.png",
+      "PackagePath": "staticwebassets\\visual\\click.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\contato.jpg",
+      "PackagePath": "staticwebassets\\visual\\contato.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica1.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica1.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica2.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica2.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica3.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica3.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica4.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica4.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica5.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica5.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dica6.jpeg",
+      "PackagePath": "staticwebassets\\visual\\dica6.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\dicas.PNG",
+      "PackagePath": "staticwebassets\\visual\\dicas.PNG"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\economia.png",
+      "PackagePath": "staticwebassets\\visual\\economia.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\empresa.png",
+      "PackagePath": "staticwebassets\\visual\\empresa.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\facebook.png",
+      "PackagePath": "staticwebassets\\visual\\facebook.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\visual\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\visual\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\graficos.png",
+      "PackagePath": "staticwebassets\\visual\\graficos.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\instagram (1).png",
+      "PackagePath": "staticwebassets\\visual\\instagram (1).png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\logo.png",
+      "PackagePath": "staticwebassets\\visual\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\logo.png.jpg",
+      "PackagePath": "staticwebassets\\visual\\logo.png.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\marketing.jpg",
+      "PackagePath": "staticwebassets\\visual\\marketing.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\relacionamento.png",
+      "PackagePath": "staticwebassets\\visual\\relacionamento.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta1.png",
+      "PackagePath": "staticwebassets\\visual\\seta1.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta2.png",
+      "PackagePath": "staticwebassets\\visual\\seta2.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta3.png",
+      "PackagePath": "staticwebassets\\visual\\seta3.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta4.png",
+      "PackagePath": "staticwebassets\\visual\\seta4.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta5.png",
+      "PackagePath": "staticwebassets\\visual\\seta5.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\seta6.png",
+      "PackagePath": "staticwebassets\\visual\\seta6.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\site.webmanifest",
+      "PackagePath": "staticwebassets\\visual\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\tempo.png",
+      "PackagePath": "staticwebassets\\visual\\tempo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\visibilidade.png",
+      "PackagePath": "staticwebassets\\visual\\visibilidade.png"
+    },
+    {
+      "Id": "C:\\GitHub\\Projetos WEB\\TCC_Novo\\wwwroot\\visual\\whatsapp.png",
+      "PackagePath": "staticwebassets\\visual\\whatsapp.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TCC_Novo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TCC_Novo.props",
+      "PackagePath": "build\\TCC_Novo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TCC_Novo.props",
+      "PackagePath": "buildMultiTargeting\\TCC_Novo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TCC_Novo.props",
+      "PackagePath": "buildTransitive\\TCC_Novo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,62 @@
+@model Agendamento
+@{
+    ViewData["Title"] = "Fale Conosco";
+}
+
+<div class="bannerFale">
+    <div class="bannerFaleTxt">
+        <h3>Solicite já uma reunião personalizada com um de nossos profissionais para começar a divulgar sua marca.</h3>
+    </div>
+</div>
+
+
+<div class="centro">
+    <form asp-action="FaleConosco" method="post" class="needs-validation row">
+        <fieldset class="col-md-7 mb-3 centro" style="font-weight: bold;"><h4>Formulário de Solicitação.</h4></fieldset>
+        <div class="form-row centro">
+            <div class="col-md-7 mb-3 centro">
+                <label for="txtName">Nome</label>
+                <input type="text" class="form-control" id="txtName" name="Nome" required>
+                <div class="invalid-tooltip">
+                    Campo Pendente.
+                </div>
+            </div>
+            <div class="col-md-7 mb-3 centro">
+                <label for="txtEmail">Email</label>
+                <input type="email" class="form-control" id="txtEmail" name="Email" required>
+                <div class="invalid-tooltip">
+                    Campo Pendente.
+                </div>
+            </div>
+            <div class="col-md-7 mb-3 centro">
+                <label for="tel">Telefone</label>
+                <input type="text" class="form-control" id="tel" name="Tel" required>
+                <div class="invalid-tooltip">
+                    Campo Pendente.
+                </div>
+            </div>
+            <div class="col-md-7 mb-3 centro">
+                <label for="txtNegocio">Tipo de Negócio</label>
+                <textarea class="form-control" id="txtNegocio" placeholder="Required example textarea" name="Negocio" required></textarea>
+                <div class="invalid-feedback">
+                    Campo Pendente.
+                </div>
+            </div>
+            <div class="col-md-7 mb-3 centro">
+                <label for="txtRedes">Redes Sociais de Atuação</label>
+                <textarea class="form-control" id="txtRedes" placeholder="Required example textarea" name="Redes" required></textarea>
+                <div class="invalid-feedback">
+                    Campo Pendente.
+                </div>
+            </div>
+            <div class="col-md-7 mb-3 centro">
+                <label for="txtServico">Serviços Solicitados</label>
+                <textarea class="form-control" id="txtServico" placeholder="Required example textarea" name="Servico" required></textarea>
+                <div class="invalid-feedback">
+                    Campo Pendente.
+                </div>
+            </div>
+        </div>
+        <button class="col-sm-7 col-md-7 col-lg-5 btn btn-primary centro" type="submit">Enviar Solicitação</button>
+    </form>
+</div>

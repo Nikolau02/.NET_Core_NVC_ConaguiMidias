@@ -1,0 +1,44 @@
+@model Agendamento
+@{
+    ViewData["Title"] = "Editar Agendamento";
+}
+<h1>@ViewData["Title"]</h1>
+
+<header>
+    <h3>Editar Agendamento</h3>
+</header>
+
+<body>
+    <p id="pMensagem">@ViewBag.Mensagem</p>
+    <form asp-action="Update" method="POST">
+
+
+        <input type="hidden" asp-for="Id">
+        <p>
+            <label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome" required />
+        </p>
+        <p>
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" required />
+        </p>
+        <p>
+            <label asp-for="Tel">Telefone:</label>
+            <input asp-for="Tel" />
+        </p>
+        <p>
+            <label asp-for="Negocio">Tipo de negócio:</label>
+            <textarea asp-for="Negocio" cols="15" rows="4"></textarea>
+        </p>
+        <p>
+            <label asp-for="Redes">Redes sociais de atuação:</label>
+            <textarea asp-for="Redes" cols="15" rows="4"></textarea>
+        </p>
+        <p>
+            <label asp-for="Servico">Serviços solicitados:</label>
+            <textarea asp-for="Servico" cols="15" rows="4"></textarea>
+        </p>
+        <input type="submit" value="Salvar mudança">
+
+    </form>
+</body>
