@@ -11,6 +11,6 @@ O projeto visa explanar os serviços oferecidos na área, mostrar os trabalhos j
 ## Instalação
 1. Baixe o arquivo .zip do Projeto.
 2. Extraia o projeto e abra no seu editor de código-fonte.
-3. Abra o XAMPP e clique em "start" para os módulos "Apache" e "MySQL"
-4. Clique em "Admin" no módulo "MySQL" e verifique no PhpMyAdmin se o banco de dados do sistema web foi criado.
-5. De volta ao editor de código, execute no terminal `dotnet run` e confira.
+3. Abra o XAMPP e clique em "start" para os módulos "Apache" e "MySQL".
+4. No editor de código, execute no terminal `dotnet run`.
+5. De volta à aba do XAMPP, clique em "Admin" no módulo "MySQL" e verifique no PhpMyAdmin se o banco de dados do sistema web foi criado.
